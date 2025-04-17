@@ -99,8 +99,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include"DHT.h"
 
 
-char id[]="Nikshitha";
-char pass[]="kuly4258";
+char id[]="**";
+char pass[]="**";
 
 const int out=23;
 long T;
@@ -109,7 +109,7 @@ float temperature=0;
 WiFiClient client;
 DHT dht(23,DHT11);
 
-unsigned long myChannel=2913846;
+unsigned long myChannel=**;
 const int TemperatureField=1;
 const int HumidityField=2;
 const char* myWriteAPIKey="9FVX9Z1NMIZ7V06N";
