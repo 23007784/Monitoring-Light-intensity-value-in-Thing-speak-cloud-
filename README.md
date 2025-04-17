@@ -1,7 +1,7 @@
 ## NAME: NIKSHITHA G
 ## REG NO: 212223110031
 
-# Monitoring Light intensity value in Thing speak cloud
+# EX 04 Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
